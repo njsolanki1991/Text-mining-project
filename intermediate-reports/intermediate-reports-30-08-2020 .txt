@@ -1,0 +1,12 @@
+What has been done?
+1. Different methods of normalisation were explored and we selected the thresold value using mean-normaliastion method. 
+2. Re-running of our Dissimilarity method in the given server for different data sizes and checking of the evaluation result.
+ 
+What will be done?
+1. Running of evaluation code on our dissimilarity algorithm on entire data
+2. Comparision of evaluation measures of two baseline methods and dissimilarity method and performance tuning 
+3. Optimizing the code and use proper visualisation to display the data and results
+
+Open questions?
+1. When we run the our algorithm on one feature on whole data it takes a lot of time (around 1 day). This kills most of our time.
+2. Some more suggestion needed about selection of thresholding values for our project.

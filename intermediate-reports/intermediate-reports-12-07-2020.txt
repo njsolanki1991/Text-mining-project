@@ -1,0 +1,12 @@
+What has been done?
+1. Explore different processing techniques of given dataset using the packages learned in nltk chapters
+2. Extracting features for different tasks to be used in the algorithm
+3. Generation and modification algorithm based on Dissimilarity Measure
+4. Modifying Baseline codes in Jupyter Notebook
+What will be done?
+1. Selecting threshold values for all features by running dissimilarity measure on given training data
+2. Running of Baseline codes in Jupyter Notebook and obtaining evaluation results
+
+Open questions?
+1. Running of disimilarty algorithm on entire dataset is taking a lot of time. Is it possible to reduce dataset length from original PAN20 dataset ?
+2. We created milestone as a issue. What to do with it ?

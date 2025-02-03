@@ -1,0 +1,41 @@
+What has been done?
+Explored different NLTK processing techniques on the given dataset using the packages learned in nltk chapters.
+1. Counting vocabulary, lexical diversity, Operations on different datatypes and basics statistics
+	i.   Vocabulary count and lexical diversity count of the text  (Nilesh)
+        ii.  Frequency Distribution to count the unigrams (Nilesh)
+        iii. Counting the number of times digits used in the text (Nilesh)
+        iv.  Converting tokens into lowercase for proper counting (Nilesh)
+        v.   Counting number of words with different length (Nilesh)
+        vi.  Average word length of text (Nilesh)
+2. Word n-gram and Character n-gram Manipulation, Tokenisation and file management
+	i. Reading of given datasets in JSONL file and appropriate conversion into other datatypes(Smruti)
+ 	ii.  Tokenize the text (Nilesh)
+ 	iii. Using biagram and trigram to count number of word bigram and trigram. (Nilesh)
+	iv.Making character n-gram from raw text and counting them using Frequency Distribution (Nilesh)
+3. Application of different possible Regular Expression and Normalisation text 
+        i.  Counting the punctuation marks (Nilesh)
+4. All possible operation using text data type, Comparative wordlists, and Exploring different functions in wordnet package
+	i.  Performing operations like Lexical diversity on the text data type, (Rohan) 
+	ii. Exploring comparative wordlists in case of future requirement according to our need. (Rohan)
+	iii.Finding the most common words and the unusual words  from the text to have a statistical figure of it. (Rohan) 
+5. Explore different types of functions and exploring different libraries.
+i. Making use of structured programming so that the programs are readable for every	 team members. (Rohan)
+ii. Working on Structured programming includes operators, sequences, operating on sequence types, working on functions(input and output), Parameter Passing, Checking Parameter types.(Rohan)
+iii. Exploring libraries in python like matplotlib. (Rohan)  
+6. Exploring different types of taggers and Combining taggers to be operated on texts
+	i. Basic data processing on the text like finding concordance and similarity of words,collocation list(Smruti), 
+	ii. frequency distribution and conditional frequency distribution of words and tags and plotting of graphs(Smruti)
+	iii. Usage of default dictionary for assigning unknown tags(Smruti)
+	iv. Creating sentences from text and applying taggers to it(Smruti)
+	v.  Evaluation of Regex tagger, Lookup tagger, n gram taggers and Combining taggers(Smruti)
+2. Created user stories, sprint and tasks in git
+
+
+What will be done?
+1. Extracting features for different tasks to be used in the algorithm 
+2. Generation and modification algorithm based on Dissimilarity Measure
+3. Evaluation of different features and their performance on given PAN20 dataset
+
+Open questions?
+1. How to upload the dataset as it is about 2.2 GB as the dataset is large?
+2. Should we put the sprints and tasks in intermediate report?

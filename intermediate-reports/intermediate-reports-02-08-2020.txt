@@ -1,0 +1,12 @@
+What has been done?
+1. Running of Baseline codes in Jupyter Notebook and obtaining evaluation results on entire dataset
+2. Cleaning of the git repository and adding comments
+
+What will be done?
+1. Selecting threshold values for all features by running dissimilarity measure on given training data
+2. Running evaluation measures on our dissimilarity algorithm
+3. Comparision of evaluation measures of two baseline methods and dissimilarity method and performance tuning 
+
+Open questions?
+1. Unable to run the jupyter notebook in the environment provided. Can you help running the environment ?
+2. Do we have to divide the data set into training and test?

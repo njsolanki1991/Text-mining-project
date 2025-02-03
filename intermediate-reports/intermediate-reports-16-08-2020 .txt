@@ -1,0 +1,10 @@
+What has been done?
+1. Different methods of normalisation were explored and we selected the thresold value using mean-normaliastion method. 
+2. Re-running of both baseline method in the given server.
+ 
+What will be done?
+1. Running of evalution code on our dissimilarity algorithm
+2. Comparision of evaluation measures of two baseline methods and dissimilarity method and performance tuning 
+
+Open questions?
+1. 
